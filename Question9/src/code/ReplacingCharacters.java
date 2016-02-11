@@ -17,6 +17,6 @@ public class ReplacingCharacters {
 			
 			
 }
-		System.out.println(changed);
+		System.out.println("String is: "+changed);
 		return changed;}
 }
